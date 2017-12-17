@@ -1,0 +1,5 @@
+HelloJNI.java 是java代码
+javac HelloJNI.java #生成HelloJNI.class
+javah HelloJNI    #根据class文件生成c/c++头文件 HelloJNI.h
+
+
